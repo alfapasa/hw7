@@ -4,5 +4,5 @@
 
 // while (i < 20) {
 //     i++;
-//     document.write (i + ', ')
+//     document.write (i + ', ');
 // }

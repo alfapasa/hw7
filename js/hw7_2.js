@@ -6,5 +6,5 @@
 // while (i <= 20) {
 //     result = i * i;
 //     i++;
-//     document.write(result + ', ')
+//     document.write(result + ', ');
 // }
